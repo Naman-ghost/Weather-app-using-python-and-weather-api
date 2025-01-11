@@ -1,5 +1,7 @@
 Weather App
+
 Overview
+
 This Weather App is a simple Python-based application that retrieves and displays real-time weather data using a Weather API. It provides the current temperature and rain percentage for a specified location.
 
 Features
